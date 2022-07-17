@@ -7,3 +7,4 @@
 - [generator](https://quera.org/problemset/148128/)
 - [hello](https://quera.org/problemset/129786/)
 - [manager](https://quera.org/problemset/148125/)
+- [server_status](https://quera.org/problemset/88646/)
